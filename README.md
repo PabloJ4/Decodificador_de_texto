@@ -1,15 +1,15 @@
-# Decodificador de Texto - Oracle + Alura
+# Decodificador de Texto - Potência Tech powered by iFood  (Oracle + Alura)
 
 <p align="left">
 <img alt="Status Concluído" src="https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-brightgreen">
 </p>
 
 
-## Sobre o Projeto 🚀
+## Sobre o Projeto 
 
 Projeto realizado para o primeiro challenge do Programa **ONE - Oracle Next Education**, da parceria da Oracle e Alura. 
 O desafio consiste em desenvolver um decodificador de texto utilizando dos conhecimentos adquiridos em HTML, CSS e JS durante os cursos da primeira fase.
-Foi disponibilizado o layout no Figma, porém, era permitido criar o seu próprio layout desde que as regras de criptografia e descriptografia fossem seguidas. Eu criei meu próprio layout, utilizando do Figma e me baseando no original. 
+Foi disponibilizado o layout no Figma, porém, era permitido criar o seu próprio layout desde que as regras de criptografia e descriptografia fossem seguidas
 
 ## Regras do Projeto
 
